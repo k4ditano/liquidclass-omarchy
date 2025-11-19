@@ -84,3 +84,35 @@ window#waybar {
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
+
+/* Tray menu styles */
+menu {
+    background-color: rgba(26, 26, 34, 0.98);
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+menuitem {
+    background-color: transparent;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin: 2px 0;
+}
+
+menuitem:hover {
+    background-color: rgba(0, 150, 255, 0.3);
+}
+
+menuitem:disabled {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+separator {
+    background-color: rgba(255, 255, 255, 0.1);
+    min-height: 1px;
+    margin: 4px 0;
+}
