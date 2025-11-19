@@ -11,7 +11,7 @@ Un tema para Omarchy (Hyprland) inspirado en la estética Liquid Crystal de Appl
 Puedes instalar este tema directamente usando el comando `omarchy-theme-install` si tienes Omarchy instalado:
 
 ```bash
-omarchy-theme-install https://github.com/tu-usuario/omarchy-liquid-crystal-theme.git
+omarchy-theme-install https://github.com/k4ditano/liquidclass-omarchy.git
 ```
 
 ### Instalación Manual
