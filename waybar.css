@@ -14,7 +14,6 @@ window#waybar {
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
-    backdrop-filter: blur(10px);
 }
 
 #workspaces button {
